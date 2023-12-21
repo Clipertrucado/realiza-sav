@@ -1,0 +1,114 @@
+@charset "UTF-8";ç
+
+.lineado{
+	background-color: rgb(128, 255, 128);
+}
+
+.hola{
+	background-color: lightgreen;
+	float: inline-end;
+	display: flex;
+	width: 100%;
+	text-align: center;
+	
+	
+	
+}
+
+h1{
+	text-align: center;
+	width: 80%;
+	font-size: 50px;
+}
+.img{
+	width: 15%;
+	height: 15%;
+}
+.p{
+	font-size: 32px;
+}
+main{
+	
+	width: 100%;
+	background-color: rgb(241, 234, 146);
+}
+
+.botones{
+	background-color: black;
+	
+}
+.button1{
+	width: 28%;
+	margin-left: 12%;
+}
+.button2{
+	width: 28%;
+	margin-left: 20%;
+}
+.jamones{
+	background-color: gray;
+	
+}
+.divjamon{
+	text-align: center;
+	display: flex;
+	width: 100%;
+	margin-right: 12%;
+}
+.jamon1{
+	width: 60%;
+}
+
+.jamon2{
+	width: 30;
+}
+
+footer{
+	width: 100%;
+	text-align: center;
+	background-image: url(nav.png);
+	height: 50px
+}
+
+.cv{
+	display: flex;
+	width: 100%;
+}
+
+.cvfoto{
+	width: 12%;
+	margin-left: 23%;
+	border-radius: 100%;
+}
+h3{
+	font-size: 40px;
+}
+
+table{
+	font-size: 32px;
+	height: 100px;
+	margin-top: 40px;
+	border-collapse: collapse;
+}
+
+.td1{
+	border-bottom: solid lightblue ;
+	border-top: solid lightblue;
+	
+}
+.td2{
+	border-bottom: solid lightblue ;
+	border-top: solid lightblue;
+	border-right: solid lightblue ;
+	
+}
+
+.td3{
+	border-bottom: solid lightblue ;
+	border-top: solid lightblue;
+	border-left: solid lightblue ;	
+}
+
+h6{
+	font-size: 60px;
+}
